@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+/* 1.tag selector */
+h1{
+    color: rgb(0, 97, 139);
+}
+p{
+    color: rgb(15, 114, 94);
+}
+h2{
+    color: rgb(80, 181, 161);
+}
